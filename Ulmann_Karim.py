@@ -1,3 +1,5 @@
+#Author Karim Ulmann
+
 class Characters:
     def __init__(self, name, strength):
         self.name = name
